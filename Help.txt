@@ -1,0 +1,4 @@
+1.Press Space to start the Game.
+2.Press Left Arrow Key to move the rod to left.
+3.Press Right Arrow key to move the rod to right.
+4.Press Enter to pause the Game.
